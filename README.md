@@ -1,6 +1,6 @@
 # Task Listing App deployed to AWS using Terraform insfrastuture
 
-This repo contains an Angular and Express application that I used to create a CI/CD pipline using Terraform to creater the infrastructure.
+This repo contains an Angular and Express application that I used to create a CI/CD pipline using Terraform.
 
 
 
